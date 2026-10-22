@@ -146,7 +146,7 @@ This project brings together basic Python programming ideas in a familiar ATM-st
 
 - **Project:** ATM Withdrawal Program using Python
 - **Type:** Python programming mini project
-- **Students:** KAUSTUBH KAMULKAR and DRISHTI HATWALE
+- **Students:** KAUSTUBH KAMULKAR and DRISHTY HATWALNE
 - **College:** Pimpri Chinchwad University (PCU)
 - **Subject:** Python Programming
 - **GitHub repository:** [Python-ATM-Withdrawal-Program](https://github.com/kaustubhkamulkar-dot/Python-ATM-Withdrawal-Program)
